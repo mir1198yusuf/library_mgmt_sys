@@ -29,4 +29,5 @@ This sample application contains limited features and therefore can be updated t
 - 000webhost - for web server & MySQL database (for deployment)
 
 The project is live at [site](https://lib-mgmt-sys.000webhostapp.com/)
+
 You can also see the demo video added in this repo.
